@@ -3,6 +3,6 @@
 int main(int argc, char *argv[])
 {
 	printf("Hello World\n"); 
-	printf("Hello C-Free!\n");
+	printf("C Programming\n");
 	return 0;
 }
